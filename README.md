@@ -7,6 +7,11 @@ This weeks project is to create an application where users can create quotes and
 # Project setup instructions
 
 
+    Create a new quote.
+    Upvote or downvote a quote.
+    Delete a quote
+    See the number of upvotes and number of downvotes for each quote.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
