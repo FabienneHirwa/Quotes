@@ -8,7 +8,7 @@ import { Quote } from '../quote';
 })
 export class QuoteComponent implements OnInit {
   quotes:Quote[] = [
-    new Quote(1, 'What you do not want done to yourself, do not do to others.','alice', 0,0,new Date(2020,8,20)),
+    new Quote(1, 'The purpose of our lives is to be happy.','Dalai Lama', 0,0,new Date(2020,8,20)),
     new Quote(2, 'A single rose can be my garden… a single friend, my world.','claudine',0,0,new Date(2020,3,14)),
     new Quote(3,'There’s not  just met.','Ritha',0,0,new Date(2020,6,18)),
     new Quote (4, 'that part of the human race with which one can be human','Vivine',0,0,new Date(2020,9,25)),
