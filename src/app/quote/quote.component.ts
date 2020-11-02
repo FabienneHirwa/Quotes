@@ -13,7 +13,7 @@ export class QuoteComponent implements OnInit {
     new Quote(3,'Get busy living or get busy dying.','Claude',0,0,new Date(2020,6,18)),
     new Quote (4, 'You only live once, but if you do it right, once is enough.','Diane',0,0,new Date(2020,9,25)),
      new Quote(5,'Many of life’s failures are people who did not realize how close they were to success when they gave up.','FRorberto',0,0,new Date(2020,5,12)),
-    new Quote (6,'the privilege of friendship to talk nonsense, and to have her nonsense respected.','Bonte',0,0,new Date(2020,7,3)),
+    new Quote (6,'Not how long, but how well you have lived is the main thing.','Aldo',0,0,new Date(2020,7,3)),
    ];
 
    toggleDetails(index){
