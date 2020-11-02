@@ -13,7 +13,7 @@ export class QuoteComponent implements OnInit {
     new Quote(3,'There’s not a word yet for old friends who’ve just met.','Ritha',0,0,new Date(2020,6,18)),
     new Quote (4, 'One’s friends are that part of the human race with which one can be human','Vivine',0,0,new Date(2020,9,25)),
      new Quote(5,'Be slow to fall into friendship; but when thou art in, continue firm & constant','Fabiene',0,0,new Date(2020,5,12)),
-    new Quote (6,' the privilege of friendship to talk nonsense, and to have her nonsense respected.','Bonte',0,0,new Date(2020,7,3)),
+    new Quote (6,'the privilege of friendship to talk nonsense, and to have her nonsense respected.','Bonte',0,0,new Date(2020,7,3)),
    ];
 
    toggleDetails(index){
