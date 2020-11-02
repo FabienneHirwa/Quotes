@@ -11,9 +11,9 @@ export class QuoteComponent implements OnInit {
     new Quote(1, 'The purpose of our lives is to be happy.','Dalai Lama', 0,0,new Date(2020,8,20)),
     new Quote(2, 'Life is what happens when you’re busy making other plans.','Fabienne',0,0,new Date(2020,3,14)),
     new Quote(3,'Get busy living or get busy dying.','Claude',0,0,new Date(2020,6,18)),
-    new Quote (4, 'You only live once, but if you do it right, once is enough.','Diane',0,0,new Date(2020,9,25)),
-     new Quote(5,'Many of life’s failures are people who did not realize how close they were to success when they gave up.','FRorberto',0,0,new Date(2020,5,12)),
-    new Quote (6,'Not how long, but how well you have lived is the main thing.','Aldo',0,0,new Date(2020,7,3)),
+    // new Quote (4, 'You only live once, but if you do it right, once is enough.','Diane',0,0,new Date(2020,9,25)),
+    //  new Quote(5,'Many of life’s failures are people who did not realize how close they were to success when they gave up.','FRorberto',0,0,new Date(2020,5,12)),
+    // new Quote (6,'Not how long, but how well you have lived is the main thing.','Aldo',0,0,new Date(2020,7,3)),
    ];
 
    toggleDetails(index){
