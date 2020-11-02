@@ -14,3 +14,6 @@ This weeks project is to create an application where users can create quotes and
 # copyright and license information
  copyright 2020 by Fabienne Hirwa
 
+# Link to live site on GitHub Pages
+fabiennehirwa.github.io/quotes/
+
